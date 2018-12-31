@@ -1,28 +1,36 @@
-[![Angular-Bootstrap-with-Material-Design](https://mdbootstrap.com/img/Marketing/products/angular/mdb-free.jpg)](https://mdbootstrap.com/angular/)
-
 # Angular Bootstrap with Material Design
+
+<p align="center">
+  <a href="https://mdbootstrap.com/docs/angular/" target="_blank">
+    <img width="700" src="https://mdbootstrap.com/img/Marketing/products/angular/mdb-free.jpg" alt="logo">
+  </a>
+</p>
 
 [![npm version](https://badge.fury.io/js/angular-bootstrap-md.svg)](https://badge.fury.io/js/angular-bootstrap-md)
 
-Built with Angular 6, Bootstrap 4 and TypeScript. CLI version available. Absolutely no jQuery.
 
-400+ material UI elements, 600+ material icons, 74 CSS animations, TypeScript modules, SASS files and many more.
+<p align="center">
+  <a href="https://npmcharts.com/compare/angular-bootstrap-md?minimal=true"><img src="https://img.shields.io/npm/dm/mdbootstrap.svg" alt="Downloads"></a>
+  <a href="https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design/blob/master/license.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+  <a href="https://badge.fury.io/js/angular-bootstrap-md"><img src="https://badge.fury.io/js/angular-bootstrap-md.svg" alt="npm"></a>
+  <a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/angular/&hashtags=angular,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
+</p>
 
-All fully responsive. All compatible with different browsers.
 
+
+<p align="center">
+  Built with <b>Angular 7, Bootstrap 4 and TypeScript</b>. CLI version available. Absolutely no jQuery.
+</p>
+<p align="center">
+  <b>400+</b> material UI elements, <b>600+</b> material icons, <b>74</b> CSS animations, TypeScript modules, SASS files and many more.
+</p>
+<p align="center">
+  All fully responsive. All compatible with different browsers.
+</p>
 __________
 
 # Demo:  
 **Main demo**: https://mdbootstrap.com/angular/components/
-
-# Live Preview
-
-[![Material Design for Bootstrap](https://mdbootstrap.com/img/Mockups/Lightbox/Original/img%20%2888%29.jpg)](https://mdbootstrap.com/angular/)
-[![Material Design for Bootstrap](https://mdbootstrap.com/img/Mockups/Lightbox/Original/img%20%2876%29.jpg)](https://mdbootstrap.com/angular/)
-[![Material Design for Bootstrap](https://mdbootstrap.com/img/Mockups/Lightbox/Original/img%20%2873%29.jpg)](https://mdbootstrap.com/angular/)
-[![Material Design for Bootstrap](https://mdbootstrap.com/img/Mockups/Lightbox/Original/img%20%2874%29.jpg)](https://mdbootstrap.com/angular/)
-[![Material Design for Bootstrap](https://mdbootstrap.com/img/Mockups/Lightbox/Original/img%20%2881%29.jpg)](https://mdbootstrap.com/angular/)
-[![Material Design for Bootstrap](https://mdbootstrap.com/img/Mockups/Lightbox/Original/img%20%2875%29.jpg)](https://mdbootstrap.com/angular/)
 
 # Version:
 - Angular CLI 6
