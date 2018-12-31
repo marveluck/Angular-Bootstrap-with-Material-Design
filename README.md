@@ -29,7 +29,7 @@
 </p>
 __________
 
-## Table of Contents
+# Table of Contents
 
 * [Demo](#demo)
 * [Version](#version)
@@ -168,7 +168,7 @@ Similarly, the latest versions of most desktop browsers are supported.
 | Mac | Supported | Supported | N/A | N/A | Supported | Supported |
 | Windows  | Supported | Supported | N/A | Supported | Supported | Not supported |
 
-## Getting started
+# Getting started
 
 https://mdbootstrap.com/docs/jquery/getting-started/download/
 
@@ -184,10 +184,12 @@ https://mdbootstrap.com/docs/jquery/getting-started/download/
 
 **Angular Bootstrap with Material Design PRO (from $79)**: https://mdbootstrap.com/products/angular-ui-kit/  
 
-## Documentation
+# Documentation
+
 **Huge, detailed documentation avilable online on**: http://mdbootstrap.com/docs/angular/
 
 # Highlights
+
 **Bootstrap 4**  
 Up-to-date with the latest standards of Bootstrap 4 and all the best it has to offer. 
 
