@@ -1,10 +1,12 @@
-<p align="center">
-    <a href="https://mdbootstrap.com/docs/angular/"><b>Angular Bootstrap with Material Design</b></a>
-</p>
+
 <p align="center">
   <a href="https://mdbootstrap.com/docs/angular/" target="_blank">
     <img width="560" src="https://mdbootstrap.com/img/Marketing/products/angular/mdb-free.jpg" alt="logo">
   </a>
+</p>
+
+<p align="center">
+    <a href="https://mdbootstrap.com/docs/angular/"><b>Angular Bootstrap with Material Design</b></a>
 </p>
 
 <p align="center">
@@ -27,14 +29,32 @@
 </p>
 __________
 
-# Demo:  
-**Main demo**: https://mdbootstrap.com/angular/components/
+## Table of Contents
 
-# Version:
+* [Demo](#demo)
+* [Version](#version)
+* [Quick start](#quick-start)
+* [Available commands](#available-commands)
+* [Modules list](#modules-list)
+* [How to install MDB via npm](#how-to-install-mdb-via-npm)
+* [Supported Browsers](#supported-browsers)
+* [Contributing](#contributing)
+* [Documentation](#documentation)
+* [Highlights](#highlights)
+* [Social Media](#social-media)
+* [Useful Links](#useful-links)
+
+# Demo
+
+**Main demo**: https://mdbootstrap.com/docs/angular/components/demo/
+
+# Version
+
 - Angular CLI 6
 - Angular 6
 
 # Quick start
+
 - Clone following repo:  
 ```javascript
 git clone https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design.git .
@@ -75,7 +95,8 @@ Type one of the below commands to remove demo application from this project:
 * WavesModule,
 * MDBBootstrapModule - contains every MDB modules.
 
-# How to install MDB via npm:
+# How to install MDB via npm
+
 - create new project `ng new project_name --style=scss`
 - `npm i angular-bootstrap-md --save`
 - to app.module.ts add
@@ -117,30 +138,56 @@ npm install -–save chart.js@2.5.0 font-awesome hammerjs
 ```
 
 ### Run server
+
 ```bash
 ng serve --open
 ```
 
-## Getting started:
+# Supported browsers
 
-http://mdbootstrap.com/angular/getting-started/
+MDBootstrap supports the **latest, stable releases** of all major browsers and platforms.
 
-**5min Quick Start**: https://mdbootstrap.com/angular/5min-quickstart/
+Alternative browsers which use the latest version of WebKit, Blink, or Gecko, whether directly or via the platform’s web view API, are not explicitly supported. However, MDBootstrap should (in most cases) display and function correctly in these browsers as well.
 
-# Additional tutorials:
+### Mobile devices
 
-**MDB - Bootstrap tutorial**: https://mdbootstrap.com/bootstrap-tutorial/
+Generally speaking, MDBootstrap supports the latest versions of each major platform’s default browsers. Note that proxy browsers (such as Opera Mini, Opera Mobile’s Turbo mode, UC Browser Mini, Amazon Silk) are not supported.
 
-**MDB - Wordpress tutorial**: https://mdbootstrap.com/wordpress-tutorial/
+|  | Chrome  | Firefox  | Safari  | Android Browser & WebView  |                  Microsoft Edge                      |
+|:--------------------:|:---------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|
+| Android | Supported | Supported | N/A | Android v5.0+ supported | Supported |
+| iOS | Supported | Supported | Supported | N/A | Supported |
+| Windows 10 Mobile | N/A | N/A | N/A | N/A | Supported |
 
-# PRO version:
+### Desktop browsers
+
+Similarly, the latest versions of most desktop browsers are supported.
+
+|  | Chrome  | Firefox  | Internet Explorer  |  Microsoft Edge  |              Opera                  |      Safari      |
+|:--------------------:|:-----------------------------:|:------------------------------:|:------------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|:------------------------------:|
+| Mac | Supported | Supported | N/A | N/A | Supported | Supported |
+| Windows  | Supported | Supported | N/A | Supported | Supported | Not supported |
+
+## Getting started
+
+https://mdbootstrap.com/docs/jquery/getting-started/download/
+
+**5min Quick Start**: https://mdbootstrap.com/docs/angular/getting-started/quick-start/
+
+# Additional tutorials
+
+**MDB - Bootstrap tutorial**: https://mdbootstrap.com/education/bootstrap/
+
+**MDB - Wordpress tutorial**: hhttps://mdbootstrap.com/education/wordpress/
+
+# PRO version
 
 **Angular Bootstrap with Material Design PRO (from $79)**: https://mdbootstrap.com/products/angular-ui-kit/  
 
-## Documentation:
-**Huge, detailed documentation avilable online on**: http://mdbootstrap.com/angular/
+## Documentation
+**Huge, detailed documentation avilable online on**: http://mdbootstrap.com/docs/angular/
 
-# Highlights:  
+# Highlights
 **Bootstrap 4**  
 Up-to-date with the latest standards of Bootstrap 4 and all the best it has to offer. 
 
@@ -156,7 +203,7 @@ Writing you code with pure Angular is now quicker, easier, and cleaner.
 **TypeScript**  
 Superset of JavaScript that compiles to clean JavaScript output.  
 
-**Angular 6**  
+**Angular 7**  
 Create smarter and faster Angular apps with the latest official Angular release.  
 
 **Cross-browser compatibility**  
@@ -183,17 +230,23 @@ Thought-out .scss files come in a compile-ready form.
 **Flexbox**  
 Full support of Flexbox layout system lets you forget about alignment issues.  
 
+### Support MDB developers
 
-A big **thank you to all our users** who are working with us to improve the software. We wouldn't be where we are without you. 
+- Star our GitHub repo
+- Create pull requests, submit bugs, suggest new features or documentation updates
+- Follow us on [Twitter](https://twitter.com/mdbootstrap)
+- Like our page on [Facebook](https://www.facebook.com/mdbootstrap)
+
+A big ❤️ **thank you to all our users** ❤️ who are working with us to improve the software. We wouldn't be where we are without you. 
 
 
-# Useful Links:
+# Useful Links
 
-**jQuery version: https://github.com/mdbootstrap/bootstrap-material-design
+jQuery version: https://github.com/mdbootstrap/bootstrap-material-design
 
-**React version: https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design
+React version: https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design
 
-**Vue version: https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design
+Vue version: https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design
 
 Getting started: https://mdbootstrap.com/angular-bootstrap-getting-started/  
 
@@ -209,7 +262,7 @@ Premium Templates: https://mdbootstrap.com/templates/
 
 Changelog: https://mdbootstrap.com/angular/changelog/
 
-# Social Media:  
+# Social Media
 
 Twitter: https://twitter.com/MDBootstrap  
 
@@ -223,5 +276,6 @@ Dribbble: https://dribbble.com/mdbootstrap
 
 LinkedIn: https://www.linkedin.com/company/material-design-for-bootstrap
 
-## Contact:
+## Contact
+
 office@mdbootstrap.com
