@@ -1,13 +1,11 @@
-# Angular Bootstrap with Material Design
-
+<p align="center">
+    <a href="https://mdbootstrap.com/docs/angular/"><b>Angular Bootstrap with Material Design</b></a>
+</p>
 <p align="center">
   <a href="https://mdbootstrap.com/docs/angular/" target="_blank">
-    <img width="700" src="https://mdbootstrap.com/img/Marketing/products/angular/mdb-free.jpg" alt="logo">
+    <img width="560" src="https://mdbootstrap.com/img/Marketing/products/angular/mdb-free.jpg" alt="logo">
   </a>
 </p>
-
-[![npm version](https://badge.fury.io/js/angular-bootstrap-md.svg)](https://badge.fury.io/js/angular-bootstrap-md)
-
 
 <p align="center">
   <a href="https://npmcharts.com/compare/angular-bootstrap-md?minimal=true"><img src="https://img.shields.io/npm/dm/mdbootstrap.svg" alt="Downloads"></a>
