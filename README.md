@@ -44,6 +44,8 @@ ________
 * [Supported Browsers](#supported-browsers)
 * [Contributing](#contributing)
 * [Documentation](#documentation)
+* [Additional tutorials](#additional-tutorials)
+* [PRO verion](#pro-version)
 * [Highlights](#highlights)
 * [Social Media](#social-media)
 * [Useful Links](#useful-links)
@@ -59,7 +61,7 @@ ________
 # Version
 
 - Angular CLI 6
-- Angular 6
+- Angular 7
 
 # Quick start
 
@@ -181,9 +183,11 @@ Similarly, the latest versions of most desktop browsers are supported.
 | Mac | Supported | Supported | N/A | N/A | Supported | Supported |
 | Windows  | Supported | Supported | N/A | Supported | Supported | Not supported |
 
-# Getting started
+# Contributing
 
-https://mdbootstrap.com/docs/jquery/getting-started/download/
+Please read [CONTRIBUTING.md](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+# Getting started
 
 **5min Quick Start**: https://mdbootstrap.com/docs/angular/getting-started/quick-start/
 
@@ -191,7 +195,7 @@ https://mdbootstrap.com/docs/jquery/getting-started/download/
 
 **MDB - Bootstrap tutorial**: https://mdbootstrap.com/education/bootstrap/
 
-**MDB - Wordpress tutorial**: hhttps://mdbootstrap.com/education/wordpress/
+**MDB - Wordpress tutorial**: https://mdbootstrap.com/education/wordpress/
 
 # PRO version
 
