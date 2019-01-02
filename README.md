@@ -1,5 +1,5 @@
 <p align="center">
-    <b>Angular Bootstrap with Material Design</b>
+    <h1>Angular Bootstrap with Material Design</h1>
 </p>
 
 
