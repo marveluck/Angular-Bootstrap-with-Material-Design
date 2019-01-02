@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://npmcharts.com/compare/angular-bootstrap-md?minimal=true"><img src="https://img.shields.io/npm/dm/mdbootstrap.svg" alt="Downloads"></a>
+  <a href="https://npmcharts.com/compare/angular-bootstrap-md?minimal=true"><img src="https://img.shields.io/npm/dm/angular-bootstrap-md.svg" alt="Downloads"></a>
   <a href="https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design/blob/master/license.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
   <a href="https://badge.fury.io/js/angular-bootstrap-md"><img src="https://badge.fury.io/js/angular-bootstrap-md.svg" alt="npm"></a>
   <a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/angular/&hashtags=angular,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
@@ -50,7 +50,7 @@ ________
 
 # Other Technologies
 
-[<img width="100" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb.png"/>](https://mdbootstrap.com/dosc/jquery)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-react.png"/>](https://mdbootstrap.com/docs/react/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-vue.png"/>](https://mdbootstrap.com/docs/vue/)
+[<img width="100" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb.png"/>](https://mdbootstrap.com/dosc/jquery)[<img width="115" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-react.png"/>](https://mdbootstrap.com/docs/react/)[<img width="115" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-vue.png"/>](https://mdbootstrap.com/docs/vue/)
 
 # Demo
 
