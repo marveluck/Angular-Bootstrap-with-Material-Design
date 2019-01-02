@@ -35,6 +35,7 @@ ________
 
 # Table of Contents
 
+* [Other Technologies](#other-technologies)
 * [Demo](#demo)
 * [Version](#version)
 * [Quick start](#quick-start)
@@ -60,8 +61,8 @@ ________
 
 # Version
 
-- Angular CLI 6
 - Angular 7
+- Angular CLI 7
 
 # Quick start
 
@@ -267,13 +268,13 @@ React version: https://github.com/mdbootstrap/React-Bootstrap-with-Material-Desi
 
 Vue version: https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design
 
-Getting started: https://mdbootstrap.com/angular-bootstrap-getting-started/  
+Getting started: https://mdbootstrap.com/docs/angular/getting-started/download/
 
-5 min quick start: https://mdbootstrap.com/angular/5min-quickstart/  
+5 min quick start: https://mdbootstrap.com/docs/angular/getting-started/quick-start/
 
-Material Design + Bootstrap Tutorial: https://mdbootstrap.com/bootstrap-tutorial/  
+Material Design + Bootstrap Tutorial: https://mdbootstrap.com/education/bootstrap/
 
-Material Design + WordPress Tutorial: https://mdbootstrap.com/wordpress-tutorial/  
+Material Design + WordPress Tutorial: https://mdbootstrap.com/education/wordpress
 
 Freebies: https://mdbootstrap.com/freebies/  
 
