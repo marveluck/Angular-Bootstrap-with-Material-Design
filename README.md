@@ -274,7 +274,7 @@ Getting started: https://mdbootstrap.com/docs/angular/getting-started/download/
 
 Material Design + Bootstrap Tutorial: https://mdbootstrap.com/education/bootstrap/
 
-Material Design + WordPress Tutorial: https://mdbootstrap.com/education/wordpress
+Material Design + WordPress Tutorial: https://mdbootstrap.com/education/wordpress/
 
 Freebies: https://mdbootstrap.com/freebies/  
 
