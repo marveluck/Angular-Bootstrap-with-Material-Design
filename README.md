@@ -1,5 +1,5 @@
 <p align="center">
-    <h1>Angular Bootstrap with Material Design</h1>
+ Angular Bootstrap with Material Design
 </p>
 
 
@@ -60,7 +60,8 @@ ________
 # Quick start
 
 - Clone following repo:  
-```javascript
+```
+javascript
 git clone https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design.git .
 ``` 
 note "." at the end. It will clone files directly into current folder. 
@@ -68,7 +69,7 @@ note "." at the end. It will clone files directly into current folder.
 - Run `npm start`
 - Voilà! Open browser and visit http://localhost:4200 
 
-Now you can navigate to our documentation (http://mdbootstrap.com/angular/), pick any component and place within your project.
+Now you can navigate to our documentation (https://mdbootstrap.com/docs/angular/), pick any component and place within your project.
 
 ## Demo application
 
