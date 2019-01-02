@@ -48,6 +48,10 @@ ________
 * [Social Media](#social-media)
 * [Useful Links](#useful-links)
 
+# Other Technologies
+
+[<img width="100" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb.png"/>](https://mdbootstrap.com/dosc/jquery)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-react.png"/>](https://mdbootstrap.com/docs/react/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-vue.png"/>](https://mdbootstrap.com/docs/vue/)
+
 # Demo
 
 **Main demo**: https://mdbootstrap.com/docs/angular/components/demo/
