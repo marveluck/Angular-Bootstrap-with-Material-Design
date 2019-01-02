@@ -105,7 +105,8 @@ Type one of the below commands to remove demo application from this project:
 - create new project `ng new project_name --style=scss`
 - `npm i angular-bootstrap-md --save`
 - to app.module.ts add
-```javascript
+```
+javascript
 import { NgModule, NO_ERRORS_SCHEMA } from '@angular/core';
 import { MDBBootstrapModule } from 'angular-bootstrap-md';
 
@@ -125,7 +126,8 @@ rename /src/styles.css to styles.scss
 - if you want to change styles in exisiting project you can use `ng set defaults.styleExt scss`
 
 - add below lines to angular.json: 
-```javascript
+```
+javascript
 "styles": [
     "node_modules/font-awesome/scss/font-awesome.scss",
     "node_modules/angular-bootstrap-md/scss/bootstrap/bootstrap.scss",
@@ -138,13 +140,15 @@ rename /src/styles.css to styles.scss
 ],
 ```
 - install external libs
-```bash
+```
+bash
 npm install -–save chart.js@2.5.0 font-awesome hammerjs
 ```
 
 ### Run server
 
-```bash
+```
+bash
 ng serve --open
 ```
 
