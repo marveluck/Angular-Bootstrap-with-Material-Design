@@ -50,7 +50,7 @@ ________
 
 # Other Technologies
 
-[<img width="100" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb.png"/>](https://mdbootstrap.com/dosc/jquery)[<img width="115" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-react.png"/>](https://mdbootstrap.com/docs/react/)[<img width="115" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-vue.png"/>](https://mdbootstrap.com/docs/vue/)
+[<img width="115" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-react.png"/>](https://mdbootstrap.com/docs/react/)[<img width="100" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb.png"/>](https://mdbootstrap.com/dosc/jquery)[<img width="115" src="https://mdbootstrap.com/img/Marketing/general/logo/small/mdb-vue.png"/>](https://mdbootstrap.com/docs/vue/)
 
 # Demo
 
