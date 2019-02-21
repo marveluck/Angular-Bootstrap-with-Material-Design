@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mdbootstrap.com/products/jquery-ui-kit/">
+  <a href="https://mdbootstrap.com/products/angular-ui-kit/">
     <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-angular.png">
   </a>
 </p>
