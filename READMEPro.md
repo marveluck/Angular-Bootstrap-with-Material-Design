@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<h1 align="center">Angular Bootstrap with Material Design</h1>
+
 
 <p align="center">
   <a href="https://mdbootstrap.com/products/angular-ui-kit/" target="_blank">
@@ -36,15 +38,34 @@
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Basic Plugins⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠀⠀| ✔️ | ✔️ | 
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Premium Plugins⠀⠀⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Premium Support⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ GitLab account and MDB Pro repository access⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ GitLab account and MDB Pro repository access⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
 
 
-
-** Details
+<h1>
+Details
+</h1>
 
   - Bootstrap 4 
   - Angular CLI
-  - Full 
+  - no jQuery
+  - TypeScript
+  - Angular 7 
+  - Cross-browser compatibility
+  - Frequent updates
+  - <a href="https://mdbootstrap.com/support/">Active community</a>
+  - Fully responsive
+  - and even more...
+  
+  
+* Preview - https://mdbootstrap.com/docs/angular/components/demo/
+* ChangeLog - https://mdbootstrap.com/docs/angular/changelog/
+* Documentation - https://mdbootstrap.com/docs/angular/
+* Product page - https://mdbootstrap.com/products/angular-ui-kit/
+* Support - https://mdbootstrap.com/support/
+* FAQ - https://mdbootstrap.com/docs/angular/getting-started/faq/
+* Tutorial - https://mdbootstrap.com/education/angular/
+
+
 
 
 <h1>
