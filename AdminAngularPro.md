@@ -270,7 +270,6 @@ to
 
  - [Video Tutorial](https://www.youtube.com/watch?v=J3M0QS6YB0w)
  
- 
 # Documentation
 
  - [Huge, detailed documentation available online](https://mdbootstrap.com/docs/angular/]
@@ -289,7 +288,7 @@ Generally speaking, MDBootstrap supports the latest versions of each major platf
 |:--------------------:|:---------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|
 | Android | Supported | Supported | N/A | Android v5.0+ supported | Supported |
 | iOS | Supported | Supported | Supported | N/A | Supported |
-|⠀ Windows 10 Mobile⠀ | N/A | N/A | N/A | N/A | Supported |
+|⠀Windows 10 Mobile⠀ | N/A | N/A | N/A | N/A | Supported |
 
 ### Desktop browsers
 
@@ -298,7 +297,7 @@ Similarly, the latest versions of most desktop browsers are supported.
 |  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome  |  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br> Internet Explorer  |  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="Internet Explorer / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br> Edge  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Opera                  |       [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari       |
 |:--------------------:|:-----------------------------:|:------------------------------:|:------------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|:------------------------------:|
 |⠀Mac⠀|⠀Supported⠀|⠀Supported⠀|⠀N/A⠀|⠀N/A⠀|⠀Supported⠀|⠀Supported⠀|
-|Windows|⠀Supported⠀|⠀Supported⠀|⠀N/A⠀|⠀Supported|⠀Supported⠀|⠀Not supported⠀|
+|Windows|⠀Supported⠀|⠀Supported⠀|⠀N/A⠀|⠀Supported|⠀Supported⠀|Not supported⠀|
 
 
 ### Support MDB developers
